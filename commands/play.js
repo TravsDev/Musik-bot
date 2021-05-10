@@ -88,7 +88,7 @@ exports.run = async (client, message, args) => {
         .addField('Efterspurgt af', song.requester, true)
         .addField('Visninger', song.views, true)
         .addField('Varighed', timeString, true)
-		.setFooter('Beatz 3.0')
+
         queue.textChannel.send(noiceEmbed);
     };
 
