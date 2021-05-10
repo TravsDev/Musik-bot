@@ -1,1 +1,1 @@
-// Lav din egen hjælp command.
+// KOMMER SNART
