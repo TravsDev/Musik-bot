@@ -1,0 +1,20 @@
+{
+  "name": "danske-developers-musik-bot",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Discordjs Music Bot - Advanced</h1> <h1 align=\"center\"><img src =\"https://github.com/Mercurydev986/Discordjs-MusicBot-Tutorial/blob/master/sound.gif?raw=true\"></h1>",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "lyrics-finder": "^21.7.0",
+    "opusscript": "0.0.8",
+    "scrape-yt": "^1.4.8",
+    "ytdl-core-discord": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
