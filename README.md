@@ -1,4 +1,4 @@
-# Et simpelt Musik script a Danske Developers
+# Et simpelt Musik script af Travs
 
 > En meget simpel discord musik bot lavet med discord.js
 
